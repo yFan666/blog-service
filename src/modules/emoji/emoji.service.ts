@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
-import { Emoji } from 'src/guard/entities/emoji.entity';
+import { Emoji } from 'src/db/entities/emoji.entity';
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 
