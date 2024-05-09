@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85402ba6-50fe-4a74-afd3-f4c5bca49f05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/modules/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji/dto/get-emoji.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji/emoji.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji/emoji.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji/emoji.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji/emoji.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji/emoji.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/dto/create-user.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/dto/update-user.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.service.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2gDyvJooiQWy94fsFR3IFyJBKyO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85402ba6-50fe-4a74-afd3-f4c5bca49f05" name="Changes" comment="" />
+      <created>1715246673269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715246673269</updated>
+      <workItem from="1715246674875" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,5 +1,5 @@
 import { EmojiService } from './emoji.service';
-import { Controller, Get, Param } from '@nestjs/common';
+import { Controller, Get } from '@nestjs/common';
 
 @Controller('emoji')
 export class EmojiController {

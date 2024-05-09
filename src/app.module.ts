@@ -4,8 +4,7 @@ import { AppService } from './app.service';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { GuardController } from './guard/guard.controller';
 import { GuardModule } from './guard/guard.module';
-import { UserModule } from './user/user.module';
-import { EmojiModule } from './emoji/emoji.module';
+import { businessModules } from './modules';
 
 @Module({
   imports: [
@@ -22,12 +21,9 @@ import { EmojiModule } from './emoji/emoji.module';
       synchronize: true,
     }),
     GuardModule,
-    UserModule,
-    EmojiModule,
+    ...businessModules, // 业务模块
   ],
   controllers: [AppController, GuardController],
   providers: [AppService],
 })
 export class AppModule {}
-
-// create user 'youli' identified with mysql_native_password by '123456';
