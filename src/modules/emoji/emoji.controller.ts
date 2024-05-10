@@ -1,7 +1,9 @@
 import { EmojiService } from './emoji.service';
 import { Controller, Get } from '@nestjs/common';
+import { ApiTags } from '@nestjs/swagger';
 
 @Controller('emoji')
+@ApiTags('上传emoji')
 export class EmojiController {
   constructor(private readonly emojiService: EmojiService) {}
   @Get('getMaterial')
